@@ -5,6 +5,7 @@
 	<title>Document</title>
 </head>
 <body>
+	include image.js
 	import from button.jd
 </body>
 </html>
